@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tamaño de los márgenes -->
+    <dimen name="margin">10dp</dimen>
+
+    <!-- Valores para selector actual -->
+    <dimen name="innerRadius">3dp</dimen>
+    <dimen name="thickness">2dp</dimen>
+
+    <!-- Valores para selector default -->
+    <dimen name="innerRadiusDef">0dp</dimen>
+    <dimen name="thicknessDef">4dp</dimen>
+
+</resources>
